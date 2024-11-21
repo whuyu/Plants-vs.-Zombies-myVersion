@@ -1,0 +1,19 @@
+﻿  Animation.cpp
+  bullet.cpp
+  car.cpp
+  character.cpp
+  gbman.cpp
+  ground.cpp
+  main.cpp
+  player.cpp
+  qiyana.cpp
+  shooter.cpp
+  snowman.cpp
+  snow_bullet.cpp
+  snow_pea.cpp
+  sun.cpp
+  sunflower.cpp
+  wallnut.cpp
+  zombie.cpp
+  正在生成代码...
+  c++bigwork.vcxproj -> D:\work1\c++bigwork\x64\Debug\c++bigwork.exe
